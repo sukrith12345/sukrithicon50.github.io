@@ -1,4 +1,4 @@
-title = "Sukrith"
+title = "Sukrith Resume"
 baseURL = "https://example.com/"
 theme = "my-resume"
 languageCode = "en-us"
@@ -24,7 +24,7 @@ sections = ["skills","publications","creations","contributions","experience","ed
 trackerID = "XX-123446-01"
 
 [[params.handles]]
-link = "https://www.linkedin.com/in/sathishkumarthiyagarajan/"
+link = "https://www.linkedin.com/in/SUKRITH K/"
 name = "LinkedIn"
 
 [[params.handles]]
